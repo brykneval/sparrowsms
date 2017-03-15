@@ -1,0 +1,8 @@
+D:\Projects\Git\SparrowSms\SparrowSms.Console\bin\Debug\SparrowSms.Console.exe.config
+D:\Projects\Git\SparrowSms\SparrowSms.Console\bin\Debug\SparrowSms.Console.exe
+D:\Projects\Git\SparrowSms\SparrowSms.Console\bin\Debug\SparrowSms.Console.pdb
+D:\Projects\Git\SparrowSms\SparrowSms.Console\bin\Debug\SparrowSms.nuget.dll
+D:\Projects\Git\SparrowSms\SparrowSms.Console\bin\Debug\SparrowSms.nuget.pdb
+D:\Projects\Git\SparrowSms\SparrowSms.Console\obj\Debug\SparrowSms.Console.csprojResolveAssemblyReference.cache
+D:\Projects\Git\SparrowSms\SparrowSms.Console\obj\Debug\SparrowSms.Console.exe
+D:\Projects\Git\SparrowSms\SparrowSms.Console\obj\Debug\SparrowSms.Console.pdb
